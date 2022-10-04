@@ -1,0 +1,105 @@
+public class Main {
+    public static void main(String[] args) {
+    }
+
+    final int BIRTH_MONTH = 12;
+    int userMonth =0;
+
+    {
+        System.out.println("Enter birth month value");
+    }
+
+    //input birth montH
+    {
+        if (userMonth < 1) ;
+    }
+
+    {
+        System.out.println("Your birth month value is invalid.");
+    }
+
+    {
+        if (userMonth > 12) ;
+    }
+
+    {
+        System.out.println("Your birth month value is invalid.");
+    }
+
+    {
+        if (userMonth == 1) ;
+    }
+        {
+            System.out.println("Your birth month is J");
+    }
+
+    {
+        if (userMonth == 2) ;
+    }
+        {
+            System.out.println("Your birth month is F");
+
+
+    }
+
+        {
+            if(userMonth==3);
+        }
+        {
+            System.out.println("Your birth month is M");}
+    {
+        if(userMonth==4);
+    }
+    {
+        System.out.println("Your birth month is A");}
+    {
+        if(userMonth==5);
+    }
+    {
+        System.out.println("Your birth month is May");}
+
+    {
+        if(userMonth==6);
+    }
+    {
+        System.out.println("Your birth month is June");}
+    {
+        if(userMonth==7);
+    }
+    {
+        System.out.println("Your birth month is July");}
+    {
+        if(userMonth==8);
+    }
+    {
+        System.out.println("Your birth month is Aug");}
+    {
+        if(userMonth==9);
+    }
+    {
+        System.out.println("Your birth month is S");}
+    {
+        if(userMonth==10);
+    }
+    {
+        System.out.println("Your birth month is O");}
+    {
+        if(userMonth==11);
+    }
+    {
+        System.out.println("Your birth month is N");}
+    {
+        if(userMonth==12);
+    }
+    {
+        System.out.println("Your birth month is D");}
+
+}
+
+
+
+
+
+
+
+
